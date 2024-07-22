@@ -20,9 +20,7 @@ UserDashboardApp is a simple web application that allows users to register, log 
 
 ## Installation
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/UserDashboardApp.git
-    ```
+   
 2. Navigate to the project directory:
     ```sh
     cd UserDashboardApp
